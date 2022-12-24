@@ -134,3 +134,6 @@ dmypy.json
 *.h5
 *.hdf5
 *.hdf
+
+vit-base-ddsm/
+lightning_logs/
