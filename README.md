@@ -7,6 +7,3 @@
 
 
 ViT code is based on: https://github.com/kenjitee/KenjiTee/blob/master/ViT_Tutorial.ipynb
-
-TODO::
-1) use [Captum](https://captum.ai/docs/captum_insights) to explain the model
